@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\step_CPP_Projects\\Racing_Car\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E09ADFD9-E743-4C67-955F-BE79AA4A4A9C}|Racing_Car.vcxproj|D:\\step_CPP_Projects\\Racing_Car\\carGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E09ADFD9-E743-4C67-955F-BE79AA4A4A9C}|Racing_Car.vcxproj|solutionrelative:carGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "carGame.cpp",
+              "DocumentMoniker": "D:\\step_CPP_Projects\\Racing_Car\\carGame.cpp",
+              "RelativeDocumentMoniker": "carGame.cpp",
+              "ToolTip": "D:\\step_CPP_Projects\\Racing_Car\\carGame.cpp",
+              "RelativeToolTip": "carGame.cpp",
+              "ViewState": "AgIAAJgBAAAAAAAAAAAAAHoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-24T18:44:19.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  carGame.cpp
+D:\step_CPP_Projects\Racing_Car\carGame.cpp(67,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Racing_Car.vcxproj -> D:\step_CPP_Projects\Racing_Car\x64\Debug\Racing_Car.exe
